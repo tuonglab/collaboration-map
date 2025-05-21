@@ -19,3 +19,5 @@ Then just run:
 ```bash
 python map_collab.py
 ```
+
+[try it](scival_collaboration_map.html)

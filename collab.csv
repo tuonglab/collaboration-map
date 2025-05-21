@@ -1,0 +1,111 @@
+﻿Institution ID,Institution,Sector,Country/Region,Co-author,Co-authored publications,Citations,Citations per Publication,Field-Weighted Citation Impact
+315068,University of Cambridge,academic,United Kingdom,All co-authors,33,2238,67.8,5.1
+703889,Wellcome Trust,academic,United Kingdom,All co-authors,32,2234,69.8,5.22
+703888,Wellcome Sanger Institute,academic,United Kingdom,All co-authors,32,2234,69.8,5.22
+201029,University of Queensland,academic,Australia,All co-authors,22,699,31.8,1.72
+315038,Medical Research Council,government,United Kingdom,All co-authors,12,477,39.8,3.1
+701909,Cambridge University Hospitals NHS Foundation Trust,medical,United Kingdom,All co-authors,11,892,81.1,5.16
+201071,Queensland Health,government,Australia,All co-authors,11,409,37.2,1.69
+201067,Princess Alexandra Hospital Brisbane,medical,Australia,All co-authors,11,409,37.2,1.69
+315005,Cancer Research UK,other,United Kingdom,All co-authors,7,866,123.7,6.83
+508156,National Institutes of Health,government,United States,All co-authors,6,421,70.2,3.96
+315091,University of Oxford,academic,United Kingdom,All co-authors,6,383,63.8,3.14
+315089,Newcastle University,academic,United Kingdom,All co-authors,6,727,121.2,8.17
+315061,University College London,academic,United Kingdom,All co-authors,6,636,106,5.74
+309006,European Molecular Biology Laboratory,government,Germany,All co-authors,5,718,143.6,8.27
+701880,Newcastle upon Tyne Hospitals NHS Foundation Trust,medical,United Kingdom,All co-authors,4,631,157.8,10.37
+315064,University of Birmingham,academic,United Kingdom,All co-authors,4,130,32.5,5.78
+201017,Queensland Institute of Medical Research,academic,Australia,All co-authors,4,283,70.8,2.85
+722404,National Institute for Health and Care Research,other,United Kingdom,All co-authors,3,221,73.7,5.31
+315119,AstraZeneca,corporate,United Kingdom,All co-authors,3,121,40.3,7.49
+315088,University of Manchester,academic,United Kingdom,All co-authors,3,126,42,7.04
+306003,Swiss Federal Institute of Technology Zurich,academic,Switzerland,All co-authors,3,464,154.7,7.4
+201001,Australian National University,academic,Australia,All co-authors,3,58,19.3,2.19
+725457,University College London Hospitals NHS Foundation Trust,medical,United Kingdom,All co-authors,2,446,223,10.96
+709084,Manchester University NHS Foundation Trust,medical,United Kingdom,All co-authors,2,106,53,8.98
+701767,West Suffolk NHS Foundation Trust,medical,United Kingdom,All co-authors,2,448,224,17.24
+508370,Washington University St. Louis,academic,United States,All co-authors,2,125,62.5,4.73
+508265,University of California at San Francisco,academic,United States,All co-authors,2,21,10.5,0.87
+315121,Babraham Institute,academic,United Kingdom,All co-authors,2,20,10,0.99
+315047,Queen Mary University of London,academic,United Kingdom,All co-authors,2,852,426,25.34
+315018,Imperial College London,academic,United Kingdom,All co-authors,2,89,44.5,2.61
+314027,Institut national de la santé et de la recherche médicale,government,France,All co-authors,2,136,68,5.04
+306028,Novartis,corporate,Switzerland,All co-authors,2,50,25,3.63
+306011,University of Basel,academic,Switzerland,All co-authors,2,460,230,10.5
+201010,Garvan Institute of Medical Research,medical,Australia,All co-authors,2,19,9.5,0.7
+725404,Massachusetts General Hospital,medical,United States,All co-authors,1,426,426,31.93
+725018,National Clinical Research Center for Infectious Diseases,academic,China,All co-authors,1,9,9,1.77
+724575,Hospital del Mar,medical,Spain,All co-authors,1,114,114,7.54
+724498,The Peter Doherty Institute for Infection and Immunity,academic,Australia,All co-authors,1,102,102,3.57
+720632,Children’s Health Queensland,medical,Australia,All co-authors,1,7,7,1.56
+720451,Université Paris Cité,academic,France,All co-authors,1,22,22,2.55
+717049,British Heart Foundation,other,United Kingdom,All co-authors,1,4,4,1.21
+709804,Chan Zuckerberg Biohub,academic,United States,All co-authors,1,426,426,31.93
+709481,IQ Pathology,corporate,Australia,All co-authors,1,17,17,0.53
+708182,Greenslopes Private Hospital,medical,Australia,All co-authors,1,17,17,0.53
+706542,The Francis Crick Institute,academic,United Kingdom,All co-authors,1,85,85,4
+701903,Royal Papworth Hospital NHS Foundation Trust,medical,United Kingdom,All co-authors,1,426,426,18.75
+701900,South Tyneside and Sunderland NHS Foundation Trust,medical,United Kingdom,All co-authors,1,426,426,18.75
+701830,Royal Free London NHS Foundation Trust,medical,United Kingdom,All co-authors,1,426,426,18.75
+701625,Oxford University Hospitals NHS Foundation Trust,medical,United Kingdom,All co-authors,1,85,85,4
+701392,Hadassah University Medical Centre,medical,Israel,All co-authors,1,11,11,0.96
+701350,Municipal Institute for Medical Research Hospital del Mar,academic,Spain,All co-authors,1,114,114,7.54
+700914,Max Planck Institute for Evolutionary Anthropology,government,Germany,All co-authors,1,4,4,1.21
+508804,University of Texas Health Science Center at San Antonio,academic,United States,All co-authors,1,18,18,1.32
+508503,Genentech Incorporated,corporate,United States,All co-authors,1,114,114,7.54
+508305,University of Minnesota Twin Cities,academic,United States,All co-authors,1,25,25,2.9
+508269,University of Central Florida,academic,United States,All co-authors,1,8,8,1.69
+508259,University of California at Berkeley,academic,United States,All co-authors,1,426,426,31.93
+508253,University of Alabama at Birmingham,academic,United States,All co-authors,1,114,114,7.54
+508219,Stanford University,academic,United States,All co-authors,1,11,11,0.96
+508196,Rockefeller University,academic,United States,All co-authors,1,114,114,7.54
+508175,Northwestern University,academic,United States,All co-authors,1,9,9,1.77
+508130,Icahn School of Medicine at Mount Sinai,academic,United States,All co-authors,1,114,114,7.54
+508113,"Mayo Clinic Rochester, MN",medical,United States,All co-authors,1,18,18,1.32
+508111,Massachusetts Institute of Technology,academic,United States,All co-authors,1,426,426,31.93
+508094,Johns Hopkins University,academic,United States,All co-authors,1,11,11,0.96
+508046,Columbia University,academic,United States,All co-authors,1,426,426,31.93
+410026,Hacettepe University,academic,Turkey,All co-authors,1,11,11,0.96
+332004,Karolinska Institutet,academic,Sweden,All co-authors,1,41,41,12.3
+325041,Netherlands Institute for Developmental Biology,government,Netherlands,All co-authors,1,85,85,4
+325008,Netherlands Cancer Institute,government,Netherlands,All co-authors,1,20,20,3.16
+315164,NHS Blood and Transplant,medical,United Kingdom,All co-authors,1,34,34,2.25
+315098,University of St Andrews,academic,United Kingdom,All co-authors,1,63,63,2.43
+315074,University of Edinburgh,academic,United Kingdom,All co-authors,1,85,85,4
+315026,King's College London,academic,United Kingdom,All co-authors,1,85,85,4
+314314,Paris-Est Sup,academic,France,All co-authors,1,114,114,7.54
+314237,CHU de Nantes,medical,France,All co-authors,1,114,114,7.54
+314207,Hôpital Henri Mondor,medical,France,All co-authors,1,114,114,7.54
+314102,Assistance publique – Hôpitaux de Paris,medical,France,All co-authors,1,114,114,7.54
+314093,Université Paris-Est Créteil,academic,France,All co-authors,1,114,114,7.54
+314057,Nantes Université,academic,France,All co-authors,1,114,114,7.54
+312131,ICREA,government,Spain,All co-authors,1,114,114,7.54
+309086,Ludwig Maximilian University of Munich,academic,Germany,All co-authors,1,426,426,18.75
+309083,University of Lübeck,academic,Germany,All co-authors,1,25,25,2.9
+309042,Charité – Universitätsmedizin Berlin,academic,Germany,All co-authors,1,11,11,0.96
+309025,Max Delbrück Center for Molecular Medicine in the Helmholtz Association,government,Germany,All co-authors,1,11,11,0.96
+309010,Free University of Berlin,academic,Germany,All co-authors,1,11,11,0.96
+306022,F. Hoffmann-La Roche AG,corporate,Switzerland,All co-authors,1,114,114,7.54
+306016,University of Zurich,academic,Switzerland,All co-authors,1,41,41,12.3
+301012,University of Veterinary Medicine Vienna,academic,Austria,All co-authors,1,41,41,12.3
+215004,National University of Singapore,academic,Singapore,All co-authors,1,9,9,1.03
+209049,Korea University,academic,South Korea,All co-authors,1,20,20,3.16
+209037,Korea Advanced Institute of Science and Technology,academic,South Korea,All co-authors,1,165,165,12.37
+208052,The Jikei University School of Medicine,academic,Japan,All co-authors,1,20,20,3.16
+203418,Qilu University of Technology,academic,China,All co-authors,1,7,7,1.56
+203209,Tsinghua University,academic,China,All co-authors,1,31,31,4.9
+203168,Shanghai Jiao Tong University,academic,China,All co-authors,1,31,31,4.9
+203152,Peking University,academic,China,All co-authors,1,31,31,4.9
+203099,Huazhong University of Science and Technology,academic,China,All co-authors,1,31,31,4.9
+203056,East China Normal University,academic,China,All co-authors,1,150,150,3.85
+203021,Central China Normal University,academic,China,All co-authors,1,31,31,4.9
+203020,Capital Medical University,academic,China,All co-authors,1,7,7,1.56
+201090,Walter and Eliza Hall Institute of Medical Research,academic,Australia,All co-authors,1,102,102,3.57
+201087,St. Vincent's Hospital Sydney,medical,Australia,All co-authors,1,11,11,0.96
+201077,Royal Melbourne Hospital,medical,Australia,All co-authors,1,102,102,3.57
+201032,University of Sydney,academic,Australia,All co-authors,1,27,27,1.47
+201030,University of South Australia,academic,Australia,All co-authors,1,17,17,0.53
+201027,University of New South Wales,academic,Australia,All co-authors,1,11,11,0.96
+201025,University of Melbourne,academic,Australia,All co-authors,1,102,102,3.57
+201015,Monash University,academic,Australia,All co-authors,1,31,31,4.9
+201011,Griffith University Queensland,academic,Australia,All co-authors,1,9,9,0.78
