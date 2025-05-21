@@ -20,4 +20,4 @@ Then just run:
 python map_collab.py
 ```
 
-[try it](scival_collaboration_map.html)
+[Try it!](https://tuonglab.github.io/collaboration-map/scival_collaboration_map.html)
