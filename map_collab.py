@@ -30,7 +30,17 @@ def get_continent(country_name):
 
 
 def crosses_dateline(lon1, lon2):
-    return abs(lon1 - lon2) > 180
+    """Check if the shortest path between two longitudes crosses the dateline."""
+    # Normalize longitudes to [-180, 180]
+    lon1 = ((lon1 + 180) % 360) - 180
+    lon2 = ((lon2 + 180) % 360) - 180
+
+    # Calculate the difference
+    diff = abs(lon1 - lon2)
+
+    # The shortest path crosses the dateline if the difference is > 180
+    # This means going "the other way" around the globe is shorter
+    return diff > 180
 
 
 def interpolate_arc(lat1, lon1, lat2, lon2, num_points=50):
